@@ -1,4 +1,5 @@
-# Day-1
+# Day-1 js
+
 This inludes java script String and Math methods
 
 This page is an practice for
